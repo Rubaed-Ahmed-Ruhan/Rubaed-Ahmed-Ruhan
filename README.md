@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ruhan</h1>
 <h3 align="center">Curious mind behind the code</h3>
-(img align="right" alt="Coding" width="400" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a6524c94-58fc-4bc7-b8ae-d6a1b821119f" />
+(img align="right" alt="Coding" width="400" src="<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/a6524c94-58fc-4bc7-b8ae-d6a1b821119f" />
 ")
 
 - 🌱 I’m currently learning **java script**
